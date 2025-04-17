@@ -1,0 +1,9 @@
+langchain-text-splitters
+langchain-community
+langchain-core # in-memory vectordb
+langgraph
+langchain-huggingface # for huggingface chat models and embeddings
+
+huggingface_hub[hf_xet]
+
+unstructured[all-docs]
